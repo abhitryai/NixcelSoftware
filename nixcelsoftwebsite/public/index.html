@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
 
-    <title>Mexant - Financial HTML5 Template</title>
+    <title>Nixcel Software Solutions</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -23,9 +23,9 @@
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css">
 <!--
 
-TemplateMo 574 Mexant
 
-https://templatemo.com/tm-574-mexant
+
+
 
 -->
   </head>
@@ -80,9 +80,9 @@ https://templatemo.com/tm-574-mexant
             <div class="row">
               <div class="col-lg-8">
                 <div class="header-text">
-                  <h2>Get <em>ready</em> for your business<br>&amp; upgrade <em>all aspects</em></h2>
+                  <h2> <span style="color: blue;">Work</span> Together <br>& <span style="color: blue;">Grow</span> Together</h2>
                   <div class="div-dec"></div>
-                  <p>Mexant HTML5 Template is provided for free of charge. This layout is based on Boostrap 5 CSS framework. Anyone can download and edit for any professional website. Thank you for visiting TemplateMo website.</p>
+                  <p>Mission: To Boost And Rejuvenate The Business World by Providing High- Quality Solutions for Technological Landscape.</p>
                   <div class="buttons">
                     <div class="green-button">
                       <a href="#">Discover More</a>
@@ -103,9 +103,9 @@ https://templatemo.com/tm-574-mexant
             <div class="row">
               <div class="col-lg-8">
                 <div class="header-text">
-                  <h2><em>Digital</em> Currency for you <br>&amp; Best <em>Crypto</em> Tips</h2>
+                  <h2><em> </em> IT <span style="color: blue;">Services</span> <br>&amp; <span style="color: blue;">IT</span> Consulting <em></em> </h2>
                   <div class="div-dec"></div>
-                  <p>You will see a bunch of free CSS templates when you search on Google. TemplateMo website is probably the best one because it is 100% free. It does not ask you anything in return. You have a total freedom to use any template for any purpose.</p>
+                  <p>We make your latest technology wishes come true by reimagining your business application innovation beyond digital transformation.</p>
                   <div class="buttons">
                     <div class="green-button">
                       <a href="#">Discover More</a>
@@ -126,9 +126,9 @@ https://templatemo.com/tm-574-mexant
             <div class="row">
               <div class="col-lg-8">
                 <div class="header-text">
-                  <h2>Best One in Town<br>&amp; Crypto <em>Services</em></h2>
+                  <h2> <br> <span style="color: blue;">Navigate</span> Businesses Towards <span style="color: blue;">Success</span> <em></em></h2>
                   <div class="div-dec"></div>
-                  <p>When you browse through different tags on TemplateMo website, you can see a variety of CSS templates which are responsive website designs for different individual needs. Please tell your friends about our website. Thank you.</p>
+                  <p>We help organizations to turn business challenges into meaningful changes by empowering businesses with smart technological solutions. Thank you.</p>
                   <div class="buttons">
                     <div class="green-button">
                       <a href="#">Discover More</a>
@@ -156,42 +156,42 @@ https://templatemo.com/tm-574-mexant
         <div class="col-lg-6">
           <div class="service-item">
             <i class="fas fa-archive"></i>
-            <h4>CSS Templates</h4>
+            <h4>Full Stack Development</h4>
             <p>TemplateMo website is the best for you to explore and download free website templates.</p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="service-item">
             <i class="fas fa-cloud"></i>
-            <h4>HTML5 Web Pages</h4>
+            <h4>SAP Implementation</h4>
             <p>Templates are based on Bootstrap 5 CSS framework. You can easily adapt or modify based on your needs.</p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="service-item">
             <i class="fas fa-charging-station"></i>
-            <h4>Responsive Designs</h4>
+            <h4>SAP Consultating</h4>
             <p>All of our CSS templates are 100% free to use for commercial or business websites.</p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="service-item">
             <i class="fas fa-suitcase"></i>
-            <h4>Mobile and Tablet ready!</h4>
+            <h4>Oracle Consulting</h4>
             <p>Our HTML CSS templates are well-tested on mobile, tablet, and desktop compatibility.</p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="service-item">
             <i class="fas fa-archway"></i>
-            <h4>Fast Customer Support</h4>
+            <h4>Big Data Staffing</h4>
             <p>Do not be hesitated to contact us if you have any question or concern about our templates.</p>
           </div>
         </div>
         <div class="col-lg-6">
           <div class="service-item">
             <i class="fas fa-puzzle-piece"></i>
-            <h4>Fully Customizable</h4>
+            <h4>ERP Solutions</h4>
             <p>If you have any idea or suggestion about new templates, feel free to let us know.</p>
           </div>
         </div>
@@ -203,7 +203,7 @@ https://templatemo.com/tm-574-mexant
     <div class="container">
       <div class="row">
         <div class="col-lg-5">
-          <h4>Business <em>Solutions</em> and <strong>Crypto</strong> Investments</h4>
+          <h4>Work <span style="color: blue;">Together</span> and <span style="color: blue;">Grow</span> Together</h4>
         </div>
         <div class="col-lg-7">
           <div class="buttons">
@@ -228,7 +228,7 @@ https://templatemo.com/tm-574-mexant
             <h4>Know Us Better</h4>
           </div>
         </div>
-        <div class="col-lg-8">
+        <!-- <div class="col-lg-8">
           <div class="naccs">
             <div class="tabs">
               <div class="row">
@@ -347,15 +347,15 @@ https://templatemo.com/tm-574-mexant
               </div>
             </div>
           </div>
-        </div>
-        <div class="col-lg-4">
+        </div> -->
+        <div class="col-lg-4 mx-auto">
           <div class="right-content">
             <h4>Please tell us about your idea and how you want it to be</h4>
-            <p>You are allowed to use this template for your websites. You are <b>NOT allowed</b> to redistribute the template ZIP file on any other template websites.<br><br>Thank you for downloading and using our templates. Please tell your friends about our website.</p>
+            <p>We promise to deliver stress-free business technology and IT solutions with more value from the technology you’ve invested in, cut costs, and become more efficient. Our solutions, services, and people are always here to make your business life easier.<br><br>Thank you for visiting our website. Please tell your friends about our website.</p>
             <div class="green-button">
               <a href="about-us.html">Discover More</a>
             </div>
-          </div>
+          </div>  
         </div>
       </div>
     </div>
@@ -371,8 +371,8 @@ https://templatemo.com/tm-574-mexant
         </div>
         <div class="col-lg-5">
           <div class="section-heading">
-            <h6>Your Freedom</h6>
-            <h4>Get a Financial Plan</h4>
+            <h6><span style="color: blue;">Connect With</span></h6>
+            <h4>Nixcel Software Solutions</h4>
           </div>
           <form id="calculate" action="" method="get">
             <div class="row">
@@ -399,16 +399,16 @@ https://templatemo.com/tm-574-mexant
                   <label for="chooseOption" class="form-label">Your Reason</label>
                   <select name="Category" class="form-select" aria-label="Default select example" id="chooseOption" onchange="this.form.click()">
                       <option selected>Choose an Option</option>
-                      <option type="checkbox" name="option1" value="Online Banking">Online Banking</option>
-                      <option value="Financial Control">Financial Control</option>
-                      <option value="Yearly Profit">Yearly Profit</option>
-                      <option value="Crypto Investment">Crypto Investment</option>
+                      <option type="checkbox" name="option1" value="Online Banking">Full Stack Development</option>
+                      <option value="Financial Control">HR</option>
+                      <option value="Yearly Profit">Finance</option>
+                      <option value="Crypto Investment">SAP</option>
                   </select>
               </fieldset>
               </div>
               <div class="col-lg-12">
                 <fieldset>
-                  <button type="submit" id="form-submit" class="orange-button">Submit Now</button>
+                  <button type="submit" id="form-submit" class="orange-button" style="background-color: blue; color: white;">Submit Now</button>
                 </fieldset>
               </div>
             </div>
@@ -431,30 +431,30 @@ https://templatemo.com/tm-574-mexant
           <div class="owl-testimonials owl-carousel" style="position: relative; z-index: 5;">
             <div class="item">
               <i class="fa fa-quote-left"></i>
-              <p>“Donec et nunc massa. Nullam non felis dignissim, dapibus turpis semper, vulputate lorem. Nam volutpat posuere tellus, in porttitor justo interdum nec. Aenean in dapibus risus, in euismod ligula. Aliquam vel scelerisque elit.”</p>
-              <h4>David Eigenberg</h4>
-              <span>CEO of Mexant</span>
+              <p>“One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.”</p>
+              <h4>Nikhil Kale</h4>
+              <span>CEO of Nixcel Software Solutions</span>
               <div class="right-image">
-                <img src="assets/images/testimonials-01.jpg" alt="">
+                <img src="assets/images/testimonials-01.jpeg" alt="">
               </div>
             </div>
             <div class="item">
               <i class="fa fa-quote-left"></i>
-              <p>“Etiam id ligula risus. Fusce fringilla nisl nunc, nec rutrum lectus cursus nec. In blandit nibh dolor, at rutrum leo accumsan porta. Nullam pulvinar eros porttitor risus condimentum tempus.”</p>
-              <h4>Andrew Garfield</h4>
-              <span>CTO of Mexant</span>
+              <p>“The most successful people in this world recognize that taking chances to get what they want is much more productive than sitting around being too scared to take a shot.”</p>
+              <h4>Prathmesh Deshmukh</h4>
+              <span>Manager at Nixcel Software Solutions</span>
               <div class="right-image">
-                <img src="assets/images/testimonials-01.jpg" alt="">
+                <img src="assets/images/testimonials-02.jpeg" alt="">
               </div>
             </div>
-            <div class="item">
+            <!-- <div class="item">
               <i class="fa fa-quote-left"></i>
               <p>“Ut dictum vehicula massa, ac pharetra leo tincidunt eu. Phasellus in tristique magna, ac gravida leo. Integer sed lorem sapien. Ut viverra mauris sed lobortis commodo.”</p>
               <h4>George Lopez</h4>
               <span>Crypto Manager</span>
               <div class="right-image">
                 <img src="assets/images/testimonials-01.jpg" alt="">
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
@@ -465,7 +465,12 @@ https://templatemo.com/tm-574-mexant
   <section class="partners">
     <div class="container">
       <div class="row">
-        <div class="col-lg-2 col-sm-4 col-6">
+        <!-- <div class="col-lg-2 col-sm-4 col-6">
+          <div class="item">
+            <img src="assets/images/client-01.png" alt="">
+          </div>
+        </div> -->
+        <!-- <div class="col-lg-2 col-sm-4 col-6">
           <div class="item">
             <img src="assets/images/client-01.png" alt="">
           </div>
@@ -479,18 +484,13 @@ https://templatemo.com/tm-574-mexant
           <div class="item">
             <img src="assets/images/client-01.png" alt="">
           </div>
-        </div>
-        <div class="col-lg-2 col-sm-4 col-6">
+        </div> -->
+        <!-- <div class="col-lg-2 col-sm-4 col-6">
           <div class="item">
             <img src="assets/images/client-01.png" alt="">
           </div>
-        </div>
-        <div class="col-lg-2 col-sm-4 col-6">
-          <div class="item">
-            <img src="assets/images/client-01.png" alt="">
-          </div>
-        </div>
-        <div class="col-lg-2 col-sm-4 col-6">
+        </div> -->
+        <div class="col-lg-2 col-sm-4 col-6 mx-auto">
           <div class="item">
             <img src="assets/images/client-01.png" alt="">
           </div>
@@ -503,9 +503,9 @@ https://templatemo.com/tm-574-mexant
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
-          <p>Copyright © 2022 Mexant Co., Ltd. All Rights Reserved. 
+          <p>Copyright © 2024 Nixcel Software Solutions Pvt. Ltd. All Rights Reserved. 
           
-          <br>Designed by <a title="CSS Templates" rel="sponsored" href="https://templatemo.com" target="_blank">TemplateMo</a></p>
+          <br>Designed by <a title="CSS Templates" rel="sponsored" href="https://nixcelsoft.com/" target="_blank"><span style="color: blue;">Nixcel Developer Team</span></a></p>
         </div>
       </div>
     </div>
