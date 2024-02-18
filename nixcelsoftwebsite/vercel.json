@@ -1,0 +1,15 @@
+{
+    "builds": [
+      { "src": "vercel-build.php", "use": "@vercel/php" }
+    ],
+    "functions": {
+      "vercel-build.php": {
+        "runtime": "vercel-php@0.5.1",
+        "memory": 2048
+      }
+    },
+    "env": {
+      "COMPOSER_MEMORY_LIMIT": "2G"
+    }
+  }
+  
